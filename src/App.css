@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.SignUp-page {
+  background-color: #6d6a6ac7;
+  border: 1px solid #000;
+  border-radius: 10px;
+  height: 80vh;
+  min-height: 150px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
